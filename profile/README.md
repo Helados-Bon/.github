@@ -1,4 +1,4 @@
-# <img src="Logo Bon sin fondo.png" alt="Logo Helados Bon" width="70"/> Helados Bon
+# Helados Bon <img src="Logo Bon sin fondo.png" alt="Logo Helados Bon" width="70"/>
 
 ## Descripción General
 Bienvenido al repositorio central de Helados Bon, el fabricante y distribuidor líder de helados en la República Dominicana. Fundada con pasión por crear productos congelados excepcionales, Helados Bon se ha establecido como un símbolo de calidad, innovación y tradición en la industria heladera del Caribe.
