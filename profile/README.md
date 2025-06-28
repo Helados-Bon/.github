@@ -54,7 +54,6 @@ Las documentaciones pertinentes de los proyectos se encuentran en su debido repo
 
 ## Contacto
 - Gerente de TI: [Kelvin Acosta](mailto:kacosta@bon.com.do)
-- Ingenierio de Aplicaciones y Analítica: [Alejandro Beltre](mailto:aaquiles@bon.com.do)
 
 ## Sitio Web
 Para más información sobre nuestros productos y servicios, visita nuestro [sitio web oficial](https://heladosbon.com/)
